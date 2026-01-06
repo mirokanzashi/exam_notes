@@ -1,2 +1,2 @@
-# gyosei_notes
+# exam_notes
 mkdocs serve
